@@ -1,0 +1,21 @@
+# coverage
+.coverage
+/htmlcov
+
+# database
+*.sqlite3
+
+# enviornment
+.env
+docker.env
+
+# npm folder
+/node_modules
+
+# python
+*.pyc
+
+# static files
+/babybuddy/static
+/static
+/media

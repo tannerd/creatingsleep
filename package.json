@@ -1,10 +1,10 @@
 {
-  "name": "creatingsleep",
+  "name": "babybuddy",
   "version": "",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tannerd/creatingsleep.git"
+    "url": ""https://github.com/cdubz/babybuddy.git""
   },
   "dependencies": {
     "bootstrap": "4.0.0",

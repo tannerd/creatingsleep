@@ -149,7 +149,7 @@ For manual deployments to Heroku without using the deploy button, make sure to
 create two settings before pushing using `heroku config:set`:
 
     heroku config:set DJANGO_SETTINGS_MODULE=babybuddy.settings.heroku
-    heroku config:set SECRET_KEY=<CHANGE TO SOMETHING RANDOM>
+    heroku config:set SECRET_KEY=1234
 
 See [Configuration](#configuration) for other settings that can be controlled
 by `heroku config:set`.

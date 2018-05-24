@@ -1,5 +1,5 @@
 {
-    "name": "Baby Buddy",
+    "name": "creatingsleep",
     "description": "Helps caregivers track baby's habits to learn about and predict needs without (as much) guess work.",
     "keywords": [
         "baby",
@@ -11,7 +11,7 @@
         "python",
         "self-host"
     ],
-    "repository": "https://github.com/cdubz/babybuddy",
+    "repository": "https://github.com/tannerd/creatingsleep",
     "website": "http://www.baby-buddy.net",
     "buildpacks": [
         {
